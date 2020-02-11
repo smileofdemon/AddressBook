@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBook", "AddressBook\AddressBook.csproj", "{352C7E2F-AD47-412A-A995-55B1CAE5FD4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookTest", "AddressBookTest\AddressBookTest.csproj", "{1EEB417A-430B-47D3-8092-D89264CC287F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352C7E2F-AD47-412A-A995-55B1CAE5FD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352C7E2F-AD47-412A-A995-55B1CAE5FD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352C7E2F-AD47-412A-A995-55B1CAE5FD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352C7E2F-AD47-412A-A995-55B1CAE5FD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EEB417A-430B-47D3-8092-D89264CC287F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEB417A-430B-47D3-8092-D89264CC287F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEB417A-430B-47D3-8092-D89264CC287F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEB417A-430B-47D3-8092-D89264CC287F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
